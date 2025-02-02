@@ -1,0 +1,87 @@
+[2025-01-29 21:53:02] [INFO    ] discord.client: logging in using static token
+[2025-01-29 21:53:06] [INFO    ] discord.gateway: Shard ID 0 has connected to Gateway (Session ID: 04b2d1c7729811cd94b4281fe219e4e4).
+[2025-01-29 23:44:54] [ERROR   ] discord.shard: Attempting a reconnect for shard ID 0 in 0.58s
+Traceback (most recent call last):
+  File "/home/pretend/.local/lib/python3.10/site-packages/discord/shard.py", line 164, in worker
+    await self.ws.poll_event()
+  File "/home/pretend/.local/lib/python3.10/site-packages/discord/gateway.py", line 648, in poll_event
+    raise ConnectionClosed(self.socket, shard_id=self.shard_id, code=code) from None
+discord.errors.ConnectionClosed: Shard ID 0 WebSocket closed with 1000
+[2025-01-29 23:45:00] [INFO    ] discord.gateway: Shard ID 0 has connected to Gateway (Session ID: 5a89475a0c0d0de2978481c4e0cb2aee).
+[2025-01-29 23:45:02] [ERROR   ] discord.client: Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/home/pretend/.local/lib/python3.10/site-packages/discord/client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/pretend/pretend.rip/tools/bot.py", line 400, in on_ready
+    await Music(self).start_nodes()
+  File "/home/pretend/pretend.rip/cogs/music.py", line 89, in start_nodes
+    await self.pomice.create_node(
+  File "/home/pretend/.local/lib/python3.10/site-packages/pomice/pool.py", line 1031, in create_node
+    raise NodeCreationError(
+pomice.exceptions.NodeCreationError: A node with identifier 'INZEWORLD.COM (DE)' already exists.
+[2025-01-29 23:45:02] [ERROR   ] discord.client: Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/home/pretend/.local/lib/python3.10/site-packages/discord/client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/pretend/pretend.rip/events/tasks.py", line 41, in on_ready
+    autopfp.start(self.bot)
+  File "/home/pretend/.local/lib/python3.10/site-packages/discord/ext/tasks/__init__.py", line 395, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+[2025-01-30 00:19:33] [INFO    ] discord.gateway: Shard ID 0 has successfully RESUMED session 5a89475a0c0d0de2978481c4e0cb2aee.
+[2025-01-30 02:22:44] [ERROR   ] discord.shard: Attempting a reconnect for shard ID 0 in 0.32s
+Traceback (most recent call last):
+  File "/home/pretend/.local/lib/python3.10/site-packages/discord/shard.py", line 164, in worker
+    await self.ws.poll_event()
+  File "/home/pretend/.local/lib/python3.10/site-packages/discord/gateway.py", line 648, in poll_event
+    raise ConnectionClosed(self.socket, shard_id=self.shard_id, code=code) from None
+discord.errors.ConnectionClosed: Shard ID 0 WebSocket closed with 1000
+[2025-01-30 02:22:50] [INFO    ] discord.gateway: Shard ID 0 has connected to Gateway (Session ID: faae76dfbf09c3e1a2057e2700748eef).
+[2025-01-30 02:22:52] [ERROR   ] discord.client: Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/home/pretend/.local/lib/python3.10/site-packages/discord/client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/pretend/pretend.rip/tools/bot.py", line 400, in on_ready
+    await Music(self).start_nodes()
+  File "/home/pretend/pretend.rip/cogs/music.py", line 89, in start_nodes
+    await self.pomice.create_node(
+  File "/home/pretend/.local/lib/python3.10/site-packages/pomice/pool.py", line 1031, in create_node
+    raise NodeCreationError(
+pomice.exceptions.NodeCreationError: A node with identifier 'INZEWORLD.COM (DE)' already exists.
+[2025-01-30 02:22:52] [ERROR   ] discord.client: Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/home/pretend/.local/lib/python3.10/site-packages/discord/client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/pretend/pretend.rip/events/tasks.py", line 41, in on_ready
+    autopfp.start(self.bot)
+  File "/home/pretend/.local/lib/python3.10/site-packages/discord/ext/tasks/__init__.py", line 395, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
+[2025-01-30 05:06:20] [ERROR   ] discord.shard: Attempting a reconnect for shard ID 0 in 1.75s
+Traceback (most recent call last):
+  File "/home/pretend/.local/lib/python3.10/site-packages/discord/shard.py", line 164, in worker
+    await self.ws.poll_event()
+  File "/home/pretend/.local/lib/python3.10/site-packages/discord/gateway.py", line 648, in poll_event
+    raise ConnectionClosed(self.socket, shard_id=self.shard_id, code=code) from None
+discord.errors.ConnectionClosed: Shard ID 0 WebSocket closed with 1000
+[2025-01-30 05:06:27] [INFO    ] discord.gateway: Shard ID 0 has connected to Gateway (Session ID: 5aca9f47ae8f9f691ec1bd8e5901bd05).
+[2025-01-30 05:06:29] [ERROR   ] discord.client: Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/home/pretend/.local/lib/python3.10/site-packages/discord/client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/pretend/pretend.rip/tools/bot.py", line 400, in on_ready
+    await Music(self).start_nodes()
+  File "/home/pretend/pretend.rip/cogs/music.py", line 89, in start_nodes
+    await self.pomice.create_node(
+  File "/home/pretend/.local/lib/python3.10/site-packages/pomice/pool.py", line 1031, in create_node
+    raise NodeCreationError(
+pomice.exceptions.NodeCreationError: A node with identifier 'INZEWORLD.COM (DE)' already exists.
+[2025-01-30 05:06:29] [ERROR   ] discord.client: Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/home/pretend/.local/lib/python3.10/site-packages/discord/client.py", line 449, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/pretend/pretend.rip/events/tasks.py", line 41, in on_ready
+    autopfp.start(self.bot)
+  File "/home/pretend/.local/lib/python3.10/site-packages/discord/ext/tasks/__init__.py", line 395, in start
+    raise RuntimeError('Task is already launched and is not completed.')
+RuntimeError: Task is already launched and is not completed.
