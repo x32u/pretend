@@ -1,0 +1,1658 @@
+[
+    {
+        "name": "clear",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "marriage",
+        "description": "check an user's marriage",
+        "permissions": "none",
+        "aliases": [],
+        "category": "roleplay"
+    },
+    {
+        "name": "webhook",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "clock",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "nowplaying",
+        "description": "check what song is playing right now",
+        "permissions": "none",
+        "aliases": [
+            "np",
+            "fm"
+        ],
+        "category": "lastfm"
+    },
+    {
+        "name": "capybara",
+        "description": "send a random capybara image",
+        "permissions": "none",
+        "aliases": [],
+        "category": "fun"
+    },
+    {
+        "name": "deposit",
+        "description": "deposit money in your pretend bank account",
+        "permissions": "none",
+        "aliases": [],
+        "category": "economy"
+    },
+    {
+        "name": "bggggggotinfo",
+        "description": "",
+        "permissions": "none",
+        "aliases": [
+            "abgggout",
+            "ggggbi"
+        ],
+        "category": "Get info on bot"
+    },
+    {
+        "name": "help",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": "Shows this message"
+    },
+    {
+        "name": "cat",
+        "description": "send a random cat image",
+        "permissions": "none",
+        "aliases": [],
+        "category": "fun"
+    },
+    {
+        "name": "fakepermissions",
+        "description": "",
+        "permissions": "none",
+        "aliases": [
+            "fakeperms"
+        ],
+        "category": null
+    },
+    {
+        "name": "exec",
+        "description": "Executes code",
+        "permissions": "none",
+        "aliases": [
+            "ex"
+        ],
+        "category": null
+    },
+    {
+        "name": "withdraw",
+        "description": "withdraw money from your pretend bank account",
+        "permissions": "none",
+        "aliases": [],
+        "category": "economy"
+    },
+    {
+        "name": "diary",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "auth",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": "Authorize a server to use the bot."
+    },
+    {
+        "name": "clearsnipes",
+        "description": "clear the guilds snipes",
+        "permissions": "none",
+        "aliases": [
+            "cs"
+        ],
+        "category": "utility"
+    },
+    {
+        "name": "marry",
+        "description": "marry an user",
+        "permissions": "none",
+        "aliases": [],
+        "category": "roleplay"
+    },
+    {
+        "name": "shutdown",
+        "description": "Shuts down the bot",
+        "permissions": "none",
+        "aliases": [
+            "sd"
+        ],
+        "category": null
+    },
+    {
+        "name": "createembed",
+        "description": "create embed",
+        "permissions": "none",
+        "aliases": [
+            "ce"
+        ],
+        "category": "config"
+    },
+    {
+        "name": "welcome",
+        "description": "",
+        "permissions": "none",
+        "aliases": [
+            "welc"
+        ],
+        "category": null
+    },
+    {
+        "name": "fyp",
+        "description": "",
+        "permissions": "none",
+        "aliases": [
+            "foryou",
+            "foryoupage"
+        ],
+        "category": "Get a random tiktok video"
+    },
+    {
+        "name": "voicemaster",
+        "description": "",
+        "permissions": "none",
+        "aliases": [
+            "vm",
+            "jtc"
+        ],
+        "category": null
+    },
+    {
+        "name": "gcreate",
+        "description": "create a giveaway in this server",
+        "permissions": "none",
+        "aliases": [],
+        "category": "config"
+    },
+    {
+        "name": "close",
+        "description": "close your pretend bank account",
+        "permissions": "none",
+        "aliases": [],
+        "category": "economy"
+    },
+    {
+        "name": "uselessfact",
+        "description": "return an useless fact",
+        "permissions": "none",
+        "aliases": [
+            "fact",
+            "uf"
+        ],
+        "category": "fun"
+    },
+    {
+        "name": "leaveguild",
+        "description": "Leaves the guild",
+        "permissions": "none",
+        "aliases": [
+            "lv"
+        ],
+        "category": null
+    },
+    {
+        "name": "react",
+        "description": "react to a message using the bot",
+        "permissions": "none",
+        "aliases": [],
+        "category": "config"
+    },
+    {
+        "name": "wealthy",
+        "description": "see the top reachest users in this guild",
+        "permissions": "none",
+        "aliases": [
+            "richest"
+        ],
+        "category": "economy"
+    },
+    {
+        "name": "starboard",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "purge",
+        "description": "bulk delete messages",
+        "permissions": "none",
+        "aliases": [
+            "p"
+        ],
+        "category": "moderation"
+    },
+    {
+        "name": "join",
+        "description": "Generates an invite link for the bot",
+        "permissions": "none",
+        "aliases": [
+            "jn"
+        ],
+        "category": null
+    },
+    {
+        "name": "interface",
+        "description": "sends an updated interface of voicemaster",
+        "permissions": "none",
+        "aliases": [],
+        "category": "config"
+    },
+    {
+        "name": "gend",
+        "description": "end a giveaway",
+        "permissions": "none",
+        "aliases": [],
+        "category": "config"
+    },
+    {
+        "name": "tempchannel",
+        "description": "",
+        "permissions": "none",
+        "aliases": [
+            "tc"
+        ],
+        "category": "utility"
+    },
+    {
+        "name": "bumpreminder",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "prefix",
+        "description": "changes the guild prefix",
+        "permissions": "none",
+        "aliases": [],
+        "category": "config"
+    },
+    {
+        "name": "addmultiple",
+        "description": "add multiple emojis",
+        "permissions": "none",
+        "aliases": [
+            "am"
+        ],
+        "category": "emoji"
+    },
+    {
+        "name": "weather",
+        "description": "check the weather from a location",
+        "permissions": "none",
+        "aliases": [],
+        "category": "utility"
+    },
+    {
+        "name": "addemoji",
+        "description": "add an emoji to your server",
+        "permissions": "none",
+        "aliases": [],
+        "category": "emoji"
+    },
+    {
+        "name": "ship",
+        "description": "ship rate an user",
+        "permissions": "none",
+        "aliases": [],
+        "category": "fun"
+    },
+    {
+        "name": "setmod",
+        "description": "enable the moderation features in your server",
+        "permissions": "none",
+        "aliases": [],
+        "category": "moderation"
+    },
+    {
+        "name": "botpurge",
+        "description": "bulk delete messages sent by bots",
+        "permissions": "none",
+        "aliases": [
+            "bc",
+            "botclear"
+        ],
+        "category": "moderation"
+    },
+    {
+        "name": "reload",
+        "description": "Reload all functions",
+        "permissions": "none",
+        "aliases": [
+            "rl"
+        ],
+        "category": null
+    },
+    {
+        "name": "divorce",
+        "description": "divorce with an user",
+        "permissions": "none",
+        "aliases": [],
+        "category": "roleplay"
+    },
+    {
+        "name": "invites",
+        "description": "shows the number of invites an user has",
+        "permissions": "none",
+        "aliases": [],
+        "category": "utility"
+    },
+    {
+        "name": "variables",
+        "description": "shows variables for the embed",
+        "permissions": "none",
+        "aliases": [],
+        "category": "config"
+    },
+    {
+        "name": "gamble",
+        "description": "gamble your pretend money",
+        "permissions": "none",
+        "aliases": [],
+        "category": "economy"
+    },
+    {
+        "name": "greroll",
+        "description": "reroll a giveaway",
+        "permissions": "none",
+        "aliases": [],
+        "category": "config"
+    },
+    {
+        "name": "reactionmute",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "strip",
+        "description": "moderation",
+        "permissions": "none",
+        "aliases": [],
+        "category": "removes all staff roles from a member"
+    },
+    {
+        "name": "giveaway",
+        "description": "",
+        "permissions": "none",
+        "aliases": [
+            "gw"
+        ],
+        "category": null
+    },
+    {
+        "name": "reactionunmute",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "give",
+        "description": "give amount of money to a user",
+        "permissions": "none",
+        "aliases": [],
+        "category": "economy"
+    },
+    {
+        "name": "gn",
+        "description": "says good night",
+        "permissions": "none",
+        "aliases": [],
+        "category": "fun"
+    },
+    {
+        "name": "donor",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "antinuke",
+        "description": "protect your server against nukes",
+        "permissions": "none",
+        "aliases": [
+            "an"
+        ],
+        "category": null
+    },
+    {
+        "name": "deleteemoji",
+        "description": "delete an emoji",
+        "permissions": "none",
+        "aliases": [
+            "delemoji"
+        ],
+        "category": "emoji"
+    },
+    {
+        "name": "warn",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "editsnipe",
+        "description": "get the most recent edited messages from the channel",
+        "permissions": "none",
+        "aliases": [
+            "es"
+        ],
+        "category": "utility"
+    },
+    {
+        "name": "chatgpt",
+        "description": "Talk to AI",
+        "permissions": "none",
+        "aliases": [
+            "chat",
+            "gpt",
+            "ask"
+        ],
+        "category": "donor"
+    },
+    {
+        "name": "hardunban",
+        "description": "revoke the hardban from an user",
+        "permissions": "none",
+        "aliases": [],
+        "category": "donor"
+    },
+    {
+        "name": "sticker",
+        "description": "manage server's stickers",
+        "permissions": "none",
+        "aliases": [],
+        "category": "emoji"
+    },
+    {
+        "name": "howretarded",
+        "description": "retard rate an user",
+        "permissions": "none",
+        "aliases": [],
+        "category": "fun"
+    },
+    {
+        "name": "userinfo",
+        "description": "get a user info",
+        "permissions": "none",
+        "aliases": [
+            "user",
+            "ui",
+            "whois"
+        ],
+        "category": "utility"
+    },
+    {
+        "name": "unsetmod",
+        "description": "disable the moderation features in your server",
+        "permissions": "none",
+        "aliases": [],
+        "category": "moderation"
+    },
+    {
+        "name": "pin",
+        "description": "pin a message with a reply",
+        "permissions": "none",
+        "aliases": [],
+        "category": "utility"
+    },
+    {
+        "name": "boosters",
+        "description": "see all server boosters",
+        "permissions": "none",
+        "aliases": [],
+        "category": "utility"
+    },
+    {
+        "name": "hardban",
+        "description": "hardban | hardunban an user from the server",
+        "permissions": "none",
+        "aliases": [],
+        "category": "donor"
+    },
+    {
+        "name": "restore",
+        "description": "restore member's roles",
+        "permissions": "none",
+        "aliases": [],
+        "category": "moderation"
+    },
+    {
+        "name": "nuke",
+        "description": "clone a channel",
+        "permissions": "none",
+        "aliases": [],
+        "category": "moderation"
+    },
+    {
+        "name": "fortniteshop",
+        "description": "",
+        "permissions": "none",
+        "aliases": [
+            "fnshop"
+        ],
+        "category": "utility"
+    },
+    {
+        "name": "howgay",
+        "description": "gay rate an user",
+        "permissions": "none",
+        "aliases": [],
+        "category": "fun"
+    },
+    {
+        "name": "uwulock",
+        "description": "uwuify a person's messages",
+        "permissions": "none",
+        "aliases": [],
+        "category": "donor"
+    },
+    {
+        "name": "roles",
+        "description": "see all server roles",
+        "permissions": "none",
+        "aliases": [],
+        "category": "utility"
+    },
+    {
+        "name": "nickname",
+        "description": "change an user's nickname",
+        "permissions": "none",
+        "aliases": [
+            "setnick",
+            "nick"
+        ],
+        "category": "moderation"
+    },
+    {
+        "name": "donators",
+        "description": "see the list of donators",
+        "permissions": "none",
+        "aliases": [
+            "donors"
+        ],
+        "category": "utility"
+    },
+    {
+        "name": "howcool",
+        "description": "cool rate an user",
+        "permissions": "none",
+        "aliases": [],
+        "category": "fun"
+    },
+    {
+        "name": "vanityset",
+        "description": "snipe vanity`s on a channel",
+        "permissions": "none",
+        "aliases": [],
+        "category": "config"
+    },
+    {
+        "name": "flavour",
+        "description": "",
+        "permissions": "none",
+        "aliases": [
+            "flavor"
+        ],
+        "category": null
+    },
+    {
+        "name": "voice",
+        "description": "",
+        "permissions": "none",
+        "aliases": [
+            "vc"
+        ],
+        "category": null
+    },
+    {
+        "name": "pack",
+        "description": "pack someone",
+        "permissions": "none",
+        "aliases": [],
+        "category": "fun"
+    },
+    {
+        "name": "leave",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "sbanner",
+        "description": "gets the banner from a server based by invite code",
+        "permissions": "none",
+        "aliases": [],
+        "category": "utility"
+    },
+    {
+        "name": "vanityunset",
+        "description": "remove vanity snipe from a channel",
+        "permissions": "none",
+        "aliases": [],
+        "category": "config"
+    },
+    {
+        "name": "disablecommand",
+        "description": "disable a command",
+        "permissions": "none",
+        "aliases": [
+            "disablecmd"
+        ],
+        "category": "config"
+    },
+    {
+        "name": "selfpurge",
+        "description": "purges an amount of messages sent by you",
+        "permissions": "none",
+        "aliases": [],
+        "category": "donor"
+    },
+    {
+        "name": "say",
+        "description": "say a message",
+        "permissions": "none",
+        "aliases": [],
+        "category": "fun"
+    },
+    {
+        "name": "ban",
+        "description": "ban members from your server",
+        "permissions": "none",
+        "aliases": [],
+        "category": "moderation"
+    },
+    {
+        "name": "splash",
+        "description": "gets the splash from a server based by invite code",
+        "permissions": "none",
+        "aliases": [],
+        "category": "utility"
+    },
+    {
+        "name": "perks",
+        "description": "check the premium perks",
+        "permissions": "none",
+        "aliases": [],
+        "category": "donor"
+    },
+    {
+        "name": "gm",
+        "description": "says good morning",
+        "permissions": "none",
+        "aliases": [
+            "goodmorning"
+        ],
+        "category": "fun"
+    },
+    {
+        "name": "hit",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "enablecommand",
+        "description": "config",
+        "permissions": "none",
+        "aliases": [
+            "enablecmd"
+        ],
+        "category": "enable a command that was previously disabled in this server"
+    },
+    {
+        "name": "eval",
+        "description": "Evaluates code",
+        "permissions": "none",
+        "aliases": [
+            "evaluate",
+            "ev"
+        ],
+        "category": null
+    },
+    {
+        "name": "slowmode",
+        "description": "add slowmode to a channel",
+        "permissions": "none",
+        "aliases": [
+            "sm"
+        ],
+        "category": "moderation"
+    },
+    {
+        "name": "blunt",
+        "description": "",
+        "permissions": "none",
+        "aliases": [
+            "smoke",
+            "cig"
+        ],
+        "category": null
+    },
+    {
+        "name": "joint",
+        "description": "have fun with a joint",
+        "permissions": "none",
+        "aliases": [],
+        "category": "roleplay"
+    },
+    {
+        "name": "dominant",
+        "description": "Get the dominant color from an image",
+        "permissions": "none",
+        "aliases": [],
+        "category": "utility"
+    },
+    {
+        "name": "boosterrole",
+        "description": "",
+        "permissions": "none",
+        "aliases": [
+            "br"
+        ],
+        "category": null
+    },
+    {
+        "name": "tictactoe",
+        "description": "play tictactoe with your friends",
+        "permissions": "none",
+        "aliases": [
+            "ttt"
+        ],
+        "category": "fun"
+    },
+    {
+        "name": "boost",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "sicon",
+        "description": "gets the icon from a server based by invite code",
+        "permissions": "none",
+        "aliases": [],
+        "category": "utility"
+    },
+    {
+        "name": "authserver",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "dog",
+        "description": "send a random dog image",
+        "permissions": "none",
+        "aliases": [],
+        "category": "fun"
+    },
+    {
+        "name": "uwuify",
+        "description": "uwify a message",
+        "permissions": "none",
+        "aliases": [
+            "uwu"
+        ],
+        "category": "utility"
+    },
+    {
+        "name": "anti-invite",
+        "description": "",
+        "permissions": "none",
+        "aliases": [
+            "antilink",
+            "anti-link"
+        ],
+        "category": null
+    },
+    {
+        "name": "forcenick",
+        "description": "force nicknames an user",
+        "permissions": "none",
+        "aliases": [
+            "fn"
+        ],
+        "category": "donor"
+    },
+    {
+        "name": "advice",
+        "description": "sends a random advice",
+        "permissions": "none",
+        "aliases": [],
+        "category": "fun"
+    },
+    {
+        "name": "warns",
+        "description": "shows all warns of an user",
+        "permissions": "none",
+        "aliases": [],
+        "category": "moderation"
+    },
+    {
+        "name": "servers",
+        "description": "",
+        "permissions": "none",
+        "aliases": [
+            "guilds"
+        ],
+        "category": null
+    },
+    {
+        "name": "stats",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "updatebill",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "autoreact",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "iq",
+        "description": "check an user's iq",
+        "permissions": "none",
+        "aliases": [],
+        "category": "fun"
+    },
+    {
+        "name": "mute",
+        "description": "mute members in your server",
+        "permissions": "none",
+        "aliases": [
+            "timeout"
+        ],
+        "category": "moderation"
+    },
+    {
+        "name": "serverinfo",
+        "description": "get a server info(you can put a invite code after)",
+        "permissions": "none",
+        "aliases": [
+            "si",
+            "server"
+        ],
+        "category": "utility"
+    },
+    {
+        "name": "invoke",
+        "description": "manage custom punishment responses",
+        "permissions": "none",
+        "aliases": [],
+        "category": "config"
+    },
+    {
+        "name": "skip",
+        "description": "skip the song",
+        "permissions": "none",
+        "aliases": [],
+        "category": "music"
+    },
+    {
+        "name": "dbexecute",
+        "description": "",
+        "permissions": "none",
+        "aliases": [
+            "db"
+        ],
+        "category": null
+    },
+    {
+        "name": "getauth",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "glist",
+        "description": "returns a list of active giveaways in the server",
+        "permissions": "none",
+        "aliases": [],
+        "category": "config"
+    },
+    {
+        "name": "jail",
+        "description": "jail a member",
+        "permissions": "none",
+        "aliases": [],
+        "category": "moderation"
+    },
+    {
+        "name": "play",
+        "description": "play a song",
+        "permissions": "none",
+        "aliases": [],
+        "category": "music"
+    },
+    {
+        "name": "shazam",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": "utility"
+    },
+    {
+        "name": "bots",
+        "description": "see all server's bots",
+        "permissions": "none",
+        "aliases": [],
+        "category": "utility"
+    },
+    {
+        "name": "channelinfo",
+        "description": "get a channel information",
+        "permissions": "none",
+        "aliases": [
+            "ci"
+        ],
+        "category": "utility"
+    },
+    {
+        "name": "top",
+        "description": "",
+        "permissions": "none",
+        "aliases": [
+            "addicts"
+        ],
+        "category": null
+    },
+    {
+        "name": "jishaku",
+        "description": "",
+        "permissions": "none",
+        "aliases": [
+            "jsk"
+        ],
+        "category": "The Jishaku debug and diagnostic commands.\n\nThis command on its own gives a status brief.\nAll other functionality is within its subcommands."
+    },
+    {
+        "name": "portal",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "unauthorize",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "stealsticker",
+        "description": "add a sticker",
+        "permissions": "none",
+        "aliases": [
+            "stickersteal",
+            "addsticker",
+            "stickeradd"
+        ],
+        "category": "emoji"
+    },
+    {
+        "name": "unjail",
+        "description": "unjail a member",
+        "permissions": "none",
+        "aliases": [],
+        "category": "moderation"
+    },
+    {
+        "name": "botinfo",
+        "description": "",
+        "permissions": "none",
+        "aliases": [
+            "bi",
+            "bot",
+            "info",
+            "about"
+        ],
+        "category": null
+    },
+    {
+        "name": "roleinfo",
+        "description": "get role informations",
+        "permissions": "none",
+        "aliases": [
+            "ri"
+        ],
+        "category": "utility"
+    },
+    {
+        "name": "selfprefix",
+        "description": "set your own prefix",
+        "permissions": "none",
+        "aliases": [],
+        "category": "config"
+    },
+    {
+        "name": "pp",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "kick",
+        "description": "kick members from your server",
+        "permissions": "none",
+        "aliases": [],
+        "category": "moderation"
+    },
+    {
+        "name": "avatar",
+        "description": "view a user avatar",
+        "permissions": "none",
+        "aliases": [
+            "av"
+        ],
+        "category": "utility"
+    },
+    {
+        "name": "antispam",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "choose",
+        "description": "choose between options",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "pause",
+        "description": "pause the player",
+        "permissions": "none",
+        "aliases": [],
+        "category": "music"
+    },
+    {
+        "name": "emojilist",
+        "description": "returns a list of server's emojis",
+        "permissions": "none",
+        "aliases": [
+            "emojis"
+        ],
+        "category": "emoji"
+    },
+    {
+        "name": "bible",
+        "description": "returns a random bible versse",
+        "permissions": "none",
+        "aliases": [],
+        "category": "fun"
+    },
+    {
+        "name": "ping",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "loop",
+        "description": "set a loop for the track",
+        "permissions": "none",
+        "aliases": [],
+        "category": "music"
+    },
+    {
+        "name": "transfers",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "joins",
+        "description": "see all members joined within 24 hours",
+        "permissions": "none",
+        "aliases": [],
+        "category": "utility"
+    },
+    {
+        "name": "hot",
+        "description": "hot rate an user",
+        "permissions": "none",
+        "aliases": [],
+        "category": "fun"
+    },
+    {
+        "name": "unblacklist",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "invite",
+        "description": "get bot invite",
+        "permissions": "none",
+        "aliases": [
+            "inv",
+            "link"
+        ],
+        "category": "info"
+    },
+    {
+        "name": "unauth",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": "Deauthorize a server, causing the bot to leave."
+    },
+    {
+        "name": "softban",
+        "description": "ban an user then immediately unban them",
+        "permissions": "none",
+        "aliases": [],
+        "category": "moderation"
+    },
+    {
+        "name": "lock",
+        "description": "lock a channel",
+        "permissions": "none",
+        "aliases": [],
+        "category": "moderation"
+    },
+    {
+        "name": "timezone",
+        "description": "check member's timezones",
+        "permissions": "none",
+        "aliases": [
+            "tz"
+        ],
+        "category": "utility"
+    },
+    {
+        "name": "enlarge",
+        "description": "gets an image version of your emoji",
+        "permissions": "none",
+        "aliases": [
+            "downloademoji",
+            "e",
+            "jumbo"
+        ],
+        "category": "emoji"
+    },
+    {
+        "name": "quickpoll",
+        "description": "start a quick poll",
+        "permissions": "none",
+        "aliases": [],
+        "category": "fun"
+    },
+    {
+        "name": "role",
+        "description": "manage roles in your server",
+        "permissions": "none",
+        "aliases": [
+            "r"
+        ],
+        "category": "moderation"
+    },
+    {
+        "name": "muted",
+        "description": "see all muted mebmers",
+        "permissions": "none",
+        "aliases": [],
+        "category": "utility"
+    },
+    {
+        "name": "reactionrole",
+        "description": "",
+        "permissions": "none",
+        "aliases": [
+            "rr"
+        ],
+        "category": null
+    },
+    {
+        "name": "afk",
+        "description": "let everyone know you are away",
+        "permissions": "none",
+        "aliases": [],
+        "category": "utility"
+    },
+    {
+        "name": "8ball",
+        "description": "answers to your question",
+        "permissions": "none",
+        "aliases": [],
+        "category": "fun"
+    },
+    {
+        "name": "delerrors",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "picperms",
+        "description": "give someone permission to post pictures in a channel",
+        "permissions": "none",
+        "aliases": [],
+        "category": "utility"
+    },
+    {
+        "name": "unmute",
+        "description": "unmute a member in your server",
+        "permissions": "none",
+        "aliases": [
+            "untimeout"
+        ],
+        "category": "moderation"
+    },
+    {
+        "name": "blacktea",
+        "description": "play blacktea with your friends",
+        "permissions": "none",
+        "aliases": [],
+        "category": "fun"
+    },
+    {
+        "name": "resume",
+        "description": "resume the player",
+        "permissions": "none",
+        "aliases": [],
+        "category": "music"
+    },
+    {
+        "name": "emojiinfo",
+        "description": "show emoji info",
+        "permissions": "none",
+        "aliases": [
+            "ei"
+        ],
+        "category": "emoji"
+    },
+    {
+        "name": "unlock",
+        "description": "unlock a channel",
+        "permissions": "none",
+        "aliases": [],
+        "category": "moderation"
+    },
+    {
+        "name": "autorole",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "no",
+        "description": "just says yes",
+        "permissions": "none",
+        "aliases": [],
+        "category": "fun"
+    },
+    {
+        "name": "globalwhoknows",
+        "description": "see who knows a certain artist across all servers the bot is in",
+        "permissions": "none",
+        "aliases": [
+            "gwk"
+        ],
+        "category": "lastfm"
+    },
+    {
+        "name": "profileicon",
+        "description": "get a user with nitro boost, icon and banner",
+        "permissions": "none",
+        "aliases": [
+            "pi"
+        ],
+        "category": "info"
+    },
+    {
+        "name": "banner",
+        "description": "see someone's banner",
+        "permissions": "none",
+        "aliases": [],
+        "category": "utility"
+    },
+    {
+        "name": "chatfilter",
+        "description": "",
+        "permissions": "none",
+        "aliases": [
+            "cf"
+        ],
+        "category": null
+    },
+    {
+        "name": "status",
+        "description": "get bot status",
+        "permissions": "none",
+        "aliases": [],
+        "category": "info"
+    },
+    {
+        "name": "geterror",
+        "description": "",
+        "permissions": "none",
+        "aliases": [
+            "trace"
+        ],
+        "category": null
+    },
+    {
+        "name": "birthday",
+        "description": "check member's birthday",
+        "permissions": "none",
+        "aliases": [
+            "bday"
+        ],
+        "category": "utility"
+    },
+    {
+        "name": "voicemute",
+        "description": "mute a member in a voice channel",
+        "permissions": "none",
+        "aliases": [
+            "vcmute"
+        ],
+        "category": "moderation"
+    },
+    {
+        "name": "volume",
+        "description": "set player volume",
+        "permissions": "none",
+        "aliases": [],
+        "category": "music"
+    },
+    {
+        "name": "getbotinvite",
+        "description": "gets the invite link with administrator permission of a bot",
+        "permissions": "none",
+        "aliases": [],
+        "category": "utility"
+    },
+    {
+        "name": "whoknows",
+        "description": "see who knows a certain artist in the server",
+        "permissions": "none",
+        "aliases": [
+            "wk"
+        ],
+        "category": "lastfm"
+    },
+    {
+        "name": "yes",
+        "description": "just says no",
+        "permissions": "none",
+        "aliases": [],
+        "category": "fun"
+    },
+    {
+        "name": "register",
+        "description": "make a account at pretend bank",
+        "permissions": "none",
+        "aliases": [],
+        "category": "economy"
+    },
+    {
+        "name": "getkey",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "reactionsnipe",
+        "description": "get the most recent messages that got one of their reactions removed",
+        "permissions": "none",
+        "aliases": [
+            "rs"
+        ],
+        "category": "utility"
+    },
+    {
+        "name": "autoresponder",
+        "description": "",
+        "permissions": "none",
+        "aliases": [
+            "ar"
+        ],
+        "category": null
+    },
+    {
+        "name": "balance",
+        "description": "check your balance account",
+        "permissions": "none",
+        "aliases": [
+            "bal"
+        ],
+        "category": "economy"
+    },
+    {
+        "name": "bird",
+        "description": "send a random bird image",
+        "permissions": "none",
+        "aliases": [],
+        "category": "fun"
+    },
+    {
+        "name": "stop",
+        "description": "stop the player",
+        "permissions": "none",
+        "aliases": [
+            "dc"
+        ],
+        "category": "music"
+    },
+    {
+        "name": "credits",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": "Get more specific credits for the bot"
+    },
+    {
+        "name": "rank",
+        "description": "check any member's rank",
+        "permissions": "none",
+        "aliases": [],
+        "category": "config"
+    },
+    {
+        "name": "bitches",
+        "description": "check how many bitches an user has",
+        "permissions": "none",
+        "aliases": [],
+        "category": "fun"
+    },
+    {
+        "name": "topalbums",
+        "description": "check a member's top 10 albums",
+        "permissions": "none",
+        "aliases": [
+            "tal"
+        ],
+        "category": "lastfm"
+    },
+    {
+        "name": "coinflip",
+        "description": "flip a coin",
+        "permissions": "none",
+        "aliases": [],
+        "category": "fun"
+    },
+    {
+        "name": "unban",
+        "description": "unban an user",
+        "permissions": "none",
+        "aliases": [],
+        "category": "moderation"
+    },
+    {
+        "name": "blacklist",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "snipe",
+        "description": "check the latest deleted message from a channel",
+        "permissions": "none",
+        "aliases": [
+            "s"
+        ],
+        "category": "utility"
+    },
+    {
+        "name": "rob",
+        "description": "rob a user",
+        "permissions": "none",
+        "aliases": [],
+        "category": "economy"
+    },
+    {
+        "name": "membercount",
+        "description": "check how many members does your guild has",
+        "permissions": "none",
+        "aliases": [
+            "mc"
+        ],
+        "category": "utility"
+    },
+    {
+        "name": "toptracks",
+        "description": "check a member's top 10 tracks",
+        "permissions": "none",
+        "aliases": [
+            "tt"
+        ],
+        "category": "lastfm"
+    },
+    {
+        "name": "firstmessage",
+        "description": "get the first message from a channel",
+        "permissions": "none",
+        "aliases": [
+            "firstmsg"
+        ],
+        "category": "utility"
+    },
+    {
+        "name": "bans",
+        "description": "see all banned members",
+        "permissions": "none",
+        "aliases": [],
+        "category": "utility"
+    },
+    {
+        "name": "rockpaperscisssors",
+        "description": "play rock paper scissors with the bot",
+        "permissions": "none",
+        "aliases": [
+            "rps"
+        ],
+        "category": "fun"
+    },
+    {
+        "name": "work",
+        "description": "work and earn money",
+        "permissions": "none",
+        "aliases": [],
+        "category": "economy"
+    },
+    {
+        "name": "lastfm",
+        "description": "",
+        "permissions": "none",
+        "aliases": [
+            "lf"
+        ],
+        "category": "utility"
+    },
+    {
+        "name": "ticket",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "topartists",
+        "description": "check a member's top 10 artists",
+        "permissions": "none",
+        "aliases": [
+            "ta",
+            "tar"
+        ],
+        "category": "lastfm"
+    },
+    {
+        "name": "voiceunmute",
+        "description": "unmute a member in a voice channel",
+        "permissions": "none",
+        "aliases": [
+            "vcunmute"
+        ],
+        "category": "moderation"
+    },
+    {
+        "name": "level",
+        "description": "",
+        "permissions": "none",
+        "aliases": [],
+        "category": null
+    },
+    {
+        "name": "dumpsterdive",
+        "description": "dumpster dive a bank",
+        "permissions": "none",
+        "aliases": [
+            "dd"
+        ],
+        "category": "economy"
+    }
+]
